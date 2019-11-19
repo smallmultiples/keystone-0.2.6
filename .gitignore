@@ -1,0 +1,8 @@
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc
+.npmignore
+.travis.yml
+*.DS_Store
+node_modules
