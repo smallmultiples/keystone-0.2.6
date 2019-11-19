@@ -54,7 +54,7 @@
     "queryfilter": "~0.0.4",
     "range_check": "~0.0.4",
     "scmp": "~1.0.0",
-    "semver": "~4.1.0",
+    "semver": "~6.3.0",
     "underscore": "~1.7.0"
   },
   "deprecated": false,
